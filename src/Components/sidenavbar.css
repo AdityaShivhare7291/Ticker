@@ -1,0 +1,15 @@
+.twothings{
+    display: inline-block;
+}
+#icon-1 #icon-2 #icon-3{
+    display: inline-block;
+}
+.side-navbar{
+    display: inline-block;
+    background-color: #F2F5FF;
+    height: 100vh;
+    
+}
+.side-navbar-block{
+    padding: 10px;
+}

@@ -1,0 +1,37 @@
+.box{
+    width: 250px;
+    height:200px;
+    -webkit-box-shadow: 5px 5px 25px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 5px 5px 25px -8px rgba(0,0,0,0.75);
+box-shadow: 5px 5px 25px -8px rgba(0,0,0,0.75);
+margin: 10px;
+text-align: center;
+
+}
+
+.box h1{
+    font-size: 28px;
+    text-align: center;
+}
+.Dashboard-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.Dashboard-box-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.ticker{
+    position: relative;
+    top: 25px;
+    font-size: 45px;
+     font-weight: 400;
+}
+.main-heading{
+    font-size: xx-large;
+    font-weight: 500;
+}

@@ -1,0 +1,38 @@
+.main-heading{
+    font-size: xx-large;
+    font-weight: 500;
+}
+.inputbox-1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.Newticket{
+    background-color: white;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+label{
+    padding: 10px;
+}
+.inputbox-main{
+    position: relative;
+    width: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+button {
+    position: relative;
+    top: 25px;
+  padding: 10px 30px;
+  width: fit-content;
+  border: 1px solid green;
+  border-radius: 4px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  align-self: center;
+}

@@ -1,0 +1,21 @@
+.header-container{
+    width: 100%;
+    background-color:#55D6C2 ;
+    height:54px;
+}
+.header-subcontainer{
+    position: relative;
+    top: 10px;
+}
+.header-container div ul{
+     float: right;
+}
+.icon-size{
+    width: 44px;
+    height: 25px;
+}
+.Logo-name{
+    font-size: 25px;
+    display: inline-block;
+    font-weight: 700;
+}
